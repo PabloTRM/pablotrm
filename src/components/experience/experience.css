@@ -1,0 +1,22 @@
+
+.jobs{
+    background: var(--color-bg-variant);
+    text-align: center;
+    padding: 2rem;
+    border-radius: 2rem;
+    width: fit-content;
+    margin: auto;
+}
+.jobs a{
+    text-decoration: underline;
+}
+
+.logoVisual{
+    width: 4rem;
+    aspect-ratio: 1/1;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 auto 1em;
+}
+
+

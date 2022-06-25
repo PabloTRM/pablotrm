@@ -1,0 +1,10 @@
+
+.pAboutMe{
+    display: flex;
+    flex-direction: column;
+    padding: 0 3rem;
+    text-align: justify;
+    max-width: 1500px;
+    gap: 2rem;
+}
+

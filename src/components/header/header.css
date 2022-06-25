@@ -1,0 +1,36 @@
+header{
+    background: #1f1f28;
+;
+}
+.header_container {
+    text-align: center;
+    height: 100%;
+    position: relative;
+}
+
+/* CTA */
+.cta {
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 1.2rem;
+    justify-content: center;
+}
+/* HEADER SOCIALS */
+.header_socials {
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+}
+
+/* ME */
+.me {
+    display: block;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+        }
+.me img{
+    border-radius: 1em;
+}
