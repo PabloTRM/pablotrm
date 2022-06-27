@@ -15,8 +15,14 @@ const Contact = () => {
                                 <h4>pablotorresrojano@gmail.com</h4>
                             </div>
                         </a>
+                <a href="tel:+34691247670">
+                    <div className="contact_option">
+                        <BsTelephone></BsTelephone>
+                        <h4>691247670</h4>
+                    </div>
+                </a>
 
-                <a href="https://linkedin.com" target="_blank">
+                <a href="https://www.linkedin.com/in/pablo-torres-rojano/">
                     <div className="contact_option">
                         <BsLinkedin></BsLinkedin>
                         <h4>Pablo Torres</h4>

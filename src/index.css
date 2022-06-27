@@ -29,7 +29,6 @@ html {
 
 
 body {
-    width: 100vw;
     font-family: sans-serif;
     background: var(--color-bg);
     color: var(--color-white);
