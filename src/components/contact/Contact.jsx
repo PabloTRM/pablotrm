@@ -22,7 +22,7 @@ const Contact = () => {
                     </div>
                 </a>
 
-                <a href="https://www.linkedin.com/in/pablo-torres-rojano/">
+                <a href="https://linkedin.com/in/pablo-torres-rojano/">
                     <div className="contact_option">
                         <BsLinkedin></BsLinkedin>
                         <h4>Pablo Torres</h4>

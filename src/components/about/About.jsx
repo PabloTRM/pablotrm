@@ -7,7 +7,7 @@ const About = () => {
             <h2>Sobre mí</h2>
 
             <div className="pAboutMe">
-                <p>¡Hola! Mi nombre es Pablo y soy desarrollador novel que quiere empezar su aventura
+                <p>¡Hola! Mi nombre es Pablo y soy desarrollador novel que está empezando su aventura
                     en el mundo de la ingeniería de software para seguir progresando en mi carrera profesional.
 
 
@@ -16,7 +16,7 @@ const About = () => {
                 </p>
 
                 <p>
-                He estudiado técnico superior en desarrollo de aplicaciones multiplataforma en el centro <a href="https://cieep.com" target="_blank">Progresa.</a>
+                He estudiado técnico superior en desarrollo de aplicaciones multiplataforma en el centro <a href="https://cieep.com">Progresa.</a>
                 </p>
 
             </div>
