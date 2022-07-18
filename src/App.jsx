@@ -18,7 +18,6 @@ function Cv() {
         <Experience></Experience>
         <Contact></Contact>
         <Navigation></Navigation>
-        <Notfound></Notfound>
     </>;
 }
 
