@@ -16,7 +16,7 @@ const Experience= () => {
                         <h5 className="jobOneName">Visual Nacert</h5>
                     </a>
                     <div className="fecha">
-                    marzo de 2022 - actualidad
+                    marzo de 2022 - diciembre 2022
                         </div>
                 </article>
             </div>
