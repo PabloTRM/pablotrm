@@ -7,16 +7,20 @@ const About = () => {
             <h2>Sobre mí</h2>
 
             <div className="pAboutMe">
-                <p>¡Hola! Mi nombre es Pablo y soy desarrollador novel que está empezando su aventura
-                    en el mundo de la ingeniería de software para seguir progresando en mi carrera profesional.
-
-
-                    Me fascina todo lo que tiene relación con la tecnología y el impacto que tiene en las vidas
-                    de las personas.
+                <p>¡Hola! Mi nombre es Pablo y soy desarrollador de software. Aunque tengo poca experiencia en el campo,
+                    estoy altamente motivado y apasionado por aprender y crecer en el mundo del desarrollo web.
+                    He tenido la oportunidad de colaborar con equipos de desarrollo y he aprendido sobre el trabajo en
+                    equipo y la importancia de la comunicación efectiva.
                 </p>
-
                 <p>
-                He estudiado técnico superior en desarrollo de aplicaciones multiplataforma en el centro <a href="https://cieep.com">Progresa.</a>
+                    La tecnología es algo que realmente me apasiona y siento un gran compromiso en hacer un uso positivo
+                    de mis conocimientos en este campo.
+                    Cada día me emociona pensar en el impacto que puedo tener como desarrollador y cómo mis habilidades
+                    pueden ayudar a resolver problemas y mejorar la sociedad
+                </p>
+                <p>
+                    He estudiado desarrollo de aplicaciones multiplataforma en el centro <a
+                    href="https://cieep.com">Progresa.</a>
                 </p>
 
             </div>
