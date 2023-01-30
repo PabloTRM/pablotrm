@@ -44,7 +44,7 @@ const Experience = () => {
                         <h5 className="jobThreeName">GAME</h5>
                     </a>
                     <div className="fecha">
-                        julio de 2018 - marzo 2022
+                        julio de 2018 - marzo 2020
                     </div>
                 </article>
             </div>
