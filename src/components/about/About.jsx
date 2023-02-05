@@ -7,8 +7,7 @@ const About = () => {
             <h2>Sobre mí</h2>
 
             <div className="pAboutMe">
-                <p>¡Hola! Mi nombre es Pablo y soy desarrollador de software.</p>
-                <p>
+                <p>¡Hola! Mi nombre es Pablo y soy desarrollador de software.
                     La tecnología es algo que realmente me apasiona y siento un gran compromiso en hacer un uso positivo
                     de mis conocimientos en este campo.
                     Cada día me emociona pensar en el impacto que puedo tener como desarrollador y cómo mis habilidades

@@ -1,10 +1,16 @@
-
 .pAboutMe{
     display: flex;
     flex-direction: column;
-    padding: 0 3rem;
+    padding: 0 6rem;
     text-align: justify;
     max-width: 1500px;
     gap: 2rem;
 }
 
+@media screen and (max-width: 600px) {
+
+    .pAboutMe {
+       padding: 0 4rem;
+    }
+
+}
