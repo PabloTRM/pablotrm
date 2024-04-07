@@ -13,7 +13,7 @@ const Skills = () => {
             <h2> Mis habilidades</h2>
             <div className="container skills_container">
                 <div className="skills">
-                    <h3>Skills</h3>
+                    <h3>Lenguajes y frameworks</h3>
                     <div className="skills_content">
                         <article className="skills_details">
                             <ImHtmlFive></ImHtmlFive>
@@ -21,7 +21,7 @@ const Skills = () => {
                         </article>
                         <article className="skills_details">
                             <SiCss3></SiCss3>
-                            <h4>CSS</h4>
+                            <h4>CSS/SASS</h4>
                         </article>
                         <article className="skills_details">
                             <FaReact></FaReact>
@@ -59,7 +59,7 @@ const Skills = () => {
                 </div>
 
                 <div className="tools">
-                    <h3>Tools</h3>
+                    <h3>Herramientas </h3>
                     <div className="skills_content">
                         <article className="skills_details">
                             <AiFillGithub></AiFillGithub>

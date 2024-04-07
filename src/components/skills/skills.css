@@ -10,7 +10,7 @@
 .skills_container > div {
     background: var(--color-bg-variant);
     padding: 2.4rem 5rem;
-    border-radius: 2rem;
+    border-radius: 1rem;
     border: 1px solid transparent;
     transition: var(--transition);
 }
