@@ -4,7 +4,7 @@
     gap: 2em;
 }
 #skills{
-    background: #1f1f28;
+    background: var(--color-bg-ods);
 }
 
 .skills_container > div {

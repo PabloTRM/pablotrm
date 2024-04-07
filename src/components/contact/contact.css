@@ -29,8 +29,8 @@
     font-size: 0.8rem;
 }
 #contact  a{
-    color: white !important;
+    color: var(--color-black);
 }
 #contact{
-    background: #1f1f28;
+    background: var(--color-bg-ods);
 }
